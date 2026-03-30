@@ -1,0 +1,17 @@
+{
+  "name": "appfiados",
+  "version": "1.0.0",
+  "description": "Contro de fiados y breve inventario",
+  "license": "ISC",
+  "author": "VictorRivas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mysql2": "^3.17.1"
+  }
+}

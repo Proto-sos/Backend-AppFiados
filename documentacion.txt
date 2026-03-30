@@ -1,0 +1,8 @@
+Fiados Post
+
+{
+  "id_cliente": 1, 
+  "id_producto": 1,
+  "cantidad": 3,
+  "descripcion": "Fiado de la tarde"
+}
